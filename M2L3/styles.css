@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Cristiano";
+    src: url(Fuentes/Cristiano.ttf);
+}
+
+header {
+    align-content: center;
+    text-align: center;
+    background-color: rgb(122, 120, 0);
+}
+  
+header h1 {
+    color: #000000;
+    font-family: "Cristiano";
+    font-style: normal;
+    font-size: 100px;
+  
+}
+
+h1{    color: rgb(122, 120, 0);
+    font-family: "Cristiano";
+    font-style: normal;
+    font-size: 50px;
+
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.Comienzo{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Red_Devil{
+    display: flex;
+    justify-content: center;
+
+}
+
+.El_Bicho{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.Gif {
+    display: flex;
+    justify-content: center;
+}
